@@ -1,0 +1,10 @@
+:root {
+  --primary-color: "#FF6551";
+  --danger-color: "#E74040";
+  --light-background-color: "#FFFFFF";
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
